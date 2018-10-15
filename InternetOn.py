@@ -1,6 +1,8 @@
 #This code is used to configure a remote Cisco device
-#Specifically this code changes the vlan of a device so that we can change from 
-#a Vlan that has no internet access to the internet to one that does
+#Specifically this code changes the vlan of a device from 
+#a VLAN that has no internet access to one that does 
+#this code changes the VLAN from whatever it was to VLAN10
+ 
 import getpass
 import telnetlib
 import sys
