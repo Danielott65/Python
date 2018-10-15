@@ -1,4 +1,4 @@
-This code is used to configure a remote Cisco device<br>
+This code is used to configure a remote Cisco device via telnet<br>
 Specifically this code changes the vlan of a device from<br>
 a VLAN that has no internet access to one that does <br>
 this code changes the VLAN from whatever it was to VLAN10 <br>
